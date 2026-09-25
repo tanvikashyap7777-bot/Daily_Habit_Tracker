@@ -1,0 +1,6 @@
+{
+  "name": "Daily Habit Tracker",
+  "description": "Track daily habits and view visual progress statistics to maintain consistent progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
